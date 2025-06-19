@@ -1,6 +1,6 @@
 ## Hello Friend 🕵️‍♂️
 
-You’ve found Me — backend developer, CS student at **PJATK**, and proud member of the **"Free Software Movement"**.
+You’ve found Me — young developer, CS student at **PJATK**, and proud member of the **"Free Software Movement"**.
 
 - 🖥️ Specializing in backend systems<br/>  
 - 🎓 Studying to master code and digital freedom<br/>
