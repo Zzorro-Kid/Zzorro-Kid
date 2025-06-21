@@ -9,9 +9,13 @@ You’ve found Me — young developer, CS student at **PJATK**, and proud member
 
 > _“Code is power. Free code is revolution.”_  
 > — Zzorro-Kid 🕵️‍♂️
-
+> 
 ## 🧰 Tech Stack:
-![C](https://img.shields.io/badge/C-blue?logo=c&logoColor=white) ![Bash](https://img.shields.io/badge/Bash%20Script-121011?logo=gnu-bash&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white) ![GCC](https://img.shields.io/badge/GCC-00599C?logo=gnu&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black) ![Makefile](https://img.shields.io/badge/Makefile-000000?style=flat&logo=gnu&logoColor=white)
+![C](https://img.shields.io/badge/C-blue?logo=c&logoColor=white) ![Bash](https://img.shields.io/badge/Bash%20Script-121011?logo=gnu-bash&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white) ![GCC](https://img.shields.io/badge/GCC-00599C?logo=gnu&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black) ![Makefile](https://img.shields.io/badge/Makefile-000000?style=flat&logo=gnu&logoColor=white) 
+
+# 📊 GitHub Stats:
+![](https://nirzak-streak-stats.vercel.app/?user=Zzorro-Kid&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Zzorro-Kid&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 
 
